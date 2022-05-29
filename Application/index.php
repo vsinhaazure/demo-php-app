@@ -18,7 +18,7 @@
 
 <body>
 <div class="main-container">
-EARTH IS ROUND!!
+Hello World App!!
     </div>
 </body>
 </html>
