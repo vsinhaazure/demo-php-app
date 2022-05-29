@@ -18,7 +18,7 @@
 
 <body>
 <div class="main-container">
-Hello World App!!
+Hello All, Welcome to today's session on Azure DevOps!
     </div>
 </body>
 </html>
